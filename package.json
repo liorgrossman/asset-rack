@@ -23,7 +23,7 @@
   "devDependencies": {
     "express.io": "1.1.8",
     "request": "2.12.0",
-    "mocha": "1.8.1",
+    "mocha": "9.0.0",
     "chai": "1.4.2"
   },
   "scripts": {
